@@ -3,7 +3,7 @@
 Plugin Name: Custom Fields PRO
 Plugin URI: https://github.com/KubeeCMS/Custom-Fields-Pro/
 Description: Powerful, professional and intuitive fields.
-Version: 5.9.5
+Version: 5.9.6
 Author: Kubee
 Author URI: https://github.com/KubeeCMS/Custom-Fields-Pro
 Text Domain: acf
